@@ -1,0 +1,35 @@
+{
+"results" : [
+
+  {
+    "objectId": "eDTGF7KxpJ",
+    "name": "Electronics",
+    "createdAt": "2023-10-17T20:02:07.756Z",
+    "updatedAt": "2023-10-17T20:02:07.756Z"
+  },
+  {
+    "objectId": "sN3ewlgZ1y",
+    "name": "Food & Beverages",
+    "createdAt": "2023-10-17T20:02:17.108Z",
+    "updatedAt": "2023-10-17T20:02:17.108Z"
+  },
+  {
+    "objectId": "4UjMcvf1Iy",
+    "name": "Travel",
+    "createdAt": "2023-10-17T20:02:26.442Z",
+    "updatedAt": "2023-10-17T20:02:26.442Z"
+  },
+  {
+    "objectId": "KGpWRtWw2K",
+    "name": "Health & Wellness",
+    "createdAt": "2023-10-17T20:02:40.141Z",
+    "updatedAt": "2023-10-17T20:02:40.141Z"
+  },
+  {
+    "objectId": "5QVOF4NxVW",
+    "name": "Collectibles",
+    "createdAt": "2023-10-17T20:02:55.511Z",
+    "updatedAt": "2023-10-17T20:02:55.511Z"
+  }
+]
+}
