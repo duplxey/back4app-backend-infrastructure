@@ -1,0 +1,125 @@
+{
+"results" : [
+
+  {
+    "objectId": "4ZyHH3X0RQ",
+    "name": "Fitness Tracker Watch",
+    "description": "Monitor your health and stay connected with the FitTech Pro Fitness Tracker Watch. It tracks your steps, heart rate, and notifies you of calls and messages.",
+    "price": 80,
+    "createdAt": "2023-10-17T20:03:55.424Z",
+    "updatedAt": "2023-10-17T20:24:12.322Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  },
+  {
+    "objectId": "cDqlGJzT5U",
+    "name": "Organic Fruit Basket",
+    "description": "Send the gift of health and taste with our Organic Delights Fruit Basket, filled with a variety of organic fruits.",
+    "price": 40,
+    "createdAt": "2023-10-17T20:04:10.063Z",
+    "updatedAt": "2023-10-17T20:24:00.382Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  },
+  {
+    "objectId": "UdihGCO9Mo",
+    "name": "Adventure Backpack",
+    "description": "Embark on your outdoor adventures with the TrailBlaze Hiking Adventure Backpack, designed for hikers and travelers alike.",
+    "price": 60,
+    "createdAt": "2023-10-17T20:04:22.906Z",
+    "updatedAt": "2023-10-17T20:23:52.282Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  },
+  {
+    "objectId": "qZqOEkURvS",
+    "name": "Gourmet Coffee Sampler",
+    "description": "Explore the world of coffee with our Worldly Brews Gourmet Coffee Sampler, featuring a selection of unique and flavorful coffees.",
+    "price": 30,
+    "createdAt": "2023-10-17T20:04:36.811Z",
+    "updatedAt": "2023-10-17T20:23:40.058Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  },
+  {
+    "objectId": "FgVKdLfbJc",
+    "name": "Bluetooth Speaker with LED Lights",
+    "description": "Light up your party with the GrooveX Party Speaker, featuring Bluetooth connectivity and dazzling LED light effects.",
+    "price": 80,
+    "createdAt": "2023-10-17T20:12:30.914Z",
+    "updatedAt": "2023-10-17T20:23:26.862Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  },
+  {
+    "objectId": "nikjNKg64H",
+    "name": "Vintage Vinyl Record Player",
+    "description": "Relive the nostalgia of vinyl with the RetroTunes Vinyl Record Player, featuring a built-in stereo and a classic design.",
+    "price": 130,
+    "createdAt": "2023-10-17T20:12:46.856Z",
+    "updatedAt": "2023-10-17T20:23:19.537Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  },
+  {
+    "objectId": "0HbJhQNu71",
+    "name": "Handcrafted Wooden Jewelry Box",
+    "description": "Safely store and display your jewelry in the ArtisanCraft Wooden Jewelry Box, handcrafted with intricate details.",
+    "price": 50,
+    "createdAt": "2023-10-17T20:12:59.862Z",
+    "updatedAt": "2023-10-17T20:23:06.183Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  },
+  {
+    "objectId": "7gZL31OLFX",
+    "name": "Gaming Laptop",
+    "description": "Elevate your gaming experience with the GameMaster Pro Gaming Laptop, equipped with high-performance hardware.",
+    "price": 1200,
+    "createdAt": "2023-10-17T20:13:16.328Z",
+    "updatedAt": "2023-10-17T20:22:51.061Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  },
+  {
+    "objectId": "eJeBhOhPQR",
+    "name": "Essential Oil Diffuser Necklace",
+    "description": "Carry your favorite essential oils with you in the stylish AromaGlow Essential Oil Diffuser Necklace.",
+    "price": 20,
+    "createdAt": "2023-10-17T20:13:29.354Z",
+    "updatedAt": "2023-10-17T20:22:40.128Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  },
+  {
+    "objectId": "TF6QB0Hdv2",
+    "name": "Reusable Water Bottle",
+    "description": "Stay hydrated and eco-conscious with the EcoHydrate Reusable Water Bottle, designed for active lifestyles.",
+    "price": 15,
+    "createdAt": "2023-10-17T20:13:40.615Z",
+    "updatedAt": "2023-10-17T20:22:23.433Z",
+    "categories": {
+      "__type": "Relation",
+      "className": "ProductCategory"
+    }
+  }
+]
+}
